@@ -24,7 +24,5 @@ urlpatterns = [
     path('api/score/', ScoreListView.as_view()),
     path('api/score/<int:pk>/', ScoreView.as_view()),
 
-    path('api/neo4j/', Neo4jView.as_view()),
-
     # path('test/user/', UserListGenericViewSet.as_view({'get': 'list', 'post': 'list'})),
 ]
