@@ -1,7 +1,7 @@
 # SIMS Backend
 **SIMS Web Development Backend**
 
-- Use Vue for front-end development
+- Use Django-REST-Framework for backend development
 - Kunming University of Science and Technology
 - Information Management and Information System
 - Junior first semester course
